@@ -8,8 +8,7 @@ import { defineConfig } from "astro/config";
 import worker from "astrojs-service-worker";
 
 export default defineConfig({
-	// TODO Place your site URL here
-	// site: "",
+	site: "https://doccer.page",
 	integrations: [
 		import.meta.env.MODE === "production" ? worker() : null,
 		sitemap(),
