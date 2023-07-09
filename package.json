@@ -11,12 +11,7 @@
 		"url": "https://github.com/Doccer-Page/doccer.page/issues"
 	},
 	"license": "MIT",
-<<<<<<< HEAD
 	"private": true,
-=======
-	"private": false,
-	"keywords": ["astro", "starter"],
->>>>>>> upstream/main
 	"scripts": {
 		"build": "astro check && astro build",
 		"start": "astro dev"
