@@ -8,15 +8,7 @@
 	},
 	"repository": {
 		"type": "git",
-<<<<<<< HEAD
 		"url": "git+https://github.com/Doccer-Page/doccer.page.git"
-=======
-<<<<<<< HEAD
-		"url": "git+https://github.com/Lightrix/astro-starter-template.git"
-=======
-		"url": "git+https://github.com/Playform/blank-web-starter.git"
->>>>>>> upstream/main
->>>>>>> upstream/main
 	},
 	"license": "MIT",
 	"scripts": {
@@ -30,7 +22,7 @@
 		"@tailwindcss/aspect-ratio": "0.4.2",
 		"@tailwindcss/forms": "0.5.4",
 		"@tailwindcss/typography": "0.5.9",
-		"astro": "2.9.3",
+		"astro": "2.9.4",
 		"astro-compress": "1.1.50",
 		"astro-critters": "1.1.40",
 		"astro-rome": "0.1.18",
