@@ -9,6 +9,7 @@
 		"type": "git",
 		"url": "git+https://github.com/Doccer-Page/doccer.page.git"
 	},
+	"license": "MIT",
 	"scripts": {
 		"prepublishOnly": "astro check && astro build",
 		"start": "astro dev"
