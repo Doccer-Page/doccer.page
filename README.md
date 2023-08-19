@@ -1,5 +1,6 @@
-# [AstroStarter-template] 📄
+# [AstroStartertemplate] 📄
 
 Starter template for AstroJS.
 
-[AstroStarter-template]: https://npmjs.org/AstroStarter-template
+[AstroStartertemplate]: https://npmjs.org/astro-starter-template
+
