@@ -1,6 +1,6 @@
-# [AstroStartertemplate] 📄
+# [doccer.page] 📄
 
 Starter template for AstroJS.
 
-[AstroStartertemplate]: https://npmjs.org/astro-starter-template
+[doccer.page]: https://doccer.page
 
