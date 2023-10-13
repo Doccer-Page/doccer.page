@@ -9,4 +9,3 @@
 	storageBucket: "", // TODO Replace with your storage bucket
 });
 
-export {};
