@@ -1,4 +1,4 @@
-# [doccer.page] 📄
+# 📄 [doccer.page]
 
 A simple skeleton with TailwindCSS, PostCSS.
 
