@@ -1,3 +1,3 @@
 # 🗺️ [Website.]
 
-[Website]: https://doccer.page
+[Website.]: https://doccer.page
