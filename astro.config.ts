@@ -2,7 +2,7 @@ export default (await import("astro/config")).defineConfig({
 	srcDir: "./Source",
 	publicDir: "./Public",
 	outDir: "./Target",
-	site: "https://Doccer.Page",
+	site: "HTTPS://Doccer.Page",
 	compressHTML: true,
 	prefetch: true,
 	integrations: [
