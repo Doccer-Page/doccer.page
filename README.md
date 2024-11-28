@@ -1,3 +1,3 @@
 # 🗺️ [WebSite] —
 
-[WebSite]: https://doccer.page
+[WebSite]: HTTPS://doccer.page
